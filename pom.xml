@@ -35,7 +35,7 @@
     <spring.boot.maven.plugin.version>2.6.4</spring.boot.maven.plugin.version>
     <spring.boot.dependencies.version>2.6.4</spring.boot.dependencies.version>
     <spring.cloud.dependencies.version>2021.0.3</spring.cloud.dependencies.version>
-    <image>miliariadnane/${project.artifactId}</image>
+    <image>zalexanderv/${project.artifactId}</image>
     <image.custom.tag/>
   </properties>
     
