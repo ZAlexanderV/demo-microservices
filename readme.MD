@@ -630,6 +630,7 @@ env:
       > kubectl create secret generic dbsecret --from-literal=db_username=your-db-username --from-literal=db_password=your-db-password
       * db_username & db_password are environment variables in our eks-application.yml files.
 
+
 ## 19. Deployment workflow diagram
 
 ![deployment workflow](docs/diagrams/deploy-workflow-diagram.png)

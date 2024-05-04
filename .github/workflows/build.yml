@@ -21,3 +21,9 @@ jobs:
 
     - name: Maven Clean Package
       run: mvn clean package
+
+    - name: Debug
+      run: |
+        ls -la
+        cat /home/runner/.m2/toolchains.xml
+        cat /home/runner/.m2/settings.xml
